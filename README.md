@@ -1,2 +1,2 @@
 # bingo_shell_script
-Simple bingo game in bash
+Bingo game in bash
